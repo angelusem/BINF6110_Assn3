@@ -1,0 +1,31 @@
+# raw sequencing data
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# alignments / big outputs
+*.sam
+*.bam
+*.tar.gz
+*.zip
+
+# databases too large for github
+kraken_db/
+db/
+k2_standard_08_GB_*/
+
+# scratch / temp
+tmp/
+scratch/
+logs/
+
+# system / editor files
+.DS_Store
+.ipynb_checkpoints/
+
+# raw downloaded data
+raw/
+
+# optional FastQC archives
+results/qc/fastqc/*_fastqc.zip

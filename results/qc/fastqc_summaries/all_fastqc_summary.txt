@@ -1,0 +1,120 @@
+PASS	Basic Statistics	SRR8146963_1.fastq
+PASS	Per base sequence quality	SRR8146963_1.fastq
+PASS	Per sequence quality scores	SRR8146963_1.fastq
+WARN	Per base sequence content	SRR8146963_1.fastq
+WARN	Per sequence GC content	SRR8146963_1.fastq
+PASS	Per base N content	SRR8146963_1.fastq
+WARN	Sequence Length Distribution	SRR8146963_1.fastq
+PASS	Sequence Duplication Levels	SRR8146963_1.fastq
+PASS	Overrepresented sequences	SRR8146963_1.fastq
+PASS	Adapter Content	SRR8146963_1.fastq
+PASS	Basic Statistics	SRR8146963_2.fastq
+PASS	Per base sequence quality	SRR8146963_2.fastq
+PASS	Per sequence quality scores	SRR8146963_2.fastq
+WARN	Per base sequence content	SRR8146963_2.fastq
+WARN	Per sequence GC content	SRR8146963_2.fastq
+PASS	Per base N content	SRR8146963_2.fastq
+PASS	Sequence Length Distribution	SRR8146963_2.fastq
+PASS	Sequence Duplication Levels	SRR8146963_2.fastq
+PASS	Overrepresented sequences	SRR8146963_2.fastq
+PASS	Adapter Content	SRR8146963_2.fastq
+PASS	Basic Statistics	SRR8146969_1.fastq
+PASS	Per base sequence quality	SRR8146969_1.fastq
+PASS	Per sequence quality scores	SRR8146969_1.fastq
+WARN	Per base sequence content	SRR8146969_1.fastq
+FAIL	Per sequence GC content	SRR8146969_1.fastq
+PASS	Per base N content	SRR8146969_1.fastq
+WARN	Sequence Length Distribution	SRR8146969_1.fastq
+PASS	Sequence Duplication Levels	SRR8146969_1.fastq
+PASS	Overrepresented sequences	SRR8146969_1.fastq
+PASS	Adapter Content	SRR8146969_1.fastq
+PASS	Basic Statistics	SRR8146969_2.fastq
+PASS	Per base sequence quality	SRR8146969_2.fastq
+PASS	Per sequence quality scores	SRR8146969_2.fastq
+WARN	Per base sequence content	SRR8146969_2.fastq
+FAIL	Per sequence GC content	SRR8146969_2.fastq
+PASS	Per base N content	SRR8146969_2.fastq
+WARN	Sequence Length Distribution	SRR8146969_2.fastq
+PASS	Sequence Duplication Levels	SRR8146969_2.fastq
+PASS	Overrepresented sequences	SRR8146969_2.fastq
+PASS	Adapter Content	SRR8146969_2.fastq
+PASS	Basic Statistics	SRR8146971_1.fastq
+PASS	Per base sequence quality	SRR8146971_1.fastq
+PASS	Per sequence quality scores	SRR8146971_1.fastq
+WARN	Per base sequence content	SRR8146971_1.fastq
+PASS	Per sequence GC content	SRR8146971_1.fastq
+PASS	Per base N content	SRR8146971_1.fastq
+WARN	Sequence Length Distribution	SRR8146971_1.fastq
+PASS	Sequence Duplication Levels	SRR8146971_1.fastq
+PASS	Overrepresented sequences	SRR8146971_1.fastq
+PASS	Adapter Content	SRR8146971_1.fastq
+PASS	Basic Statistics	SRR8146971_2.fastq
+PASS	Per base sequence quality	SRR8146971_2.fastq
+PASS	Per sequence quality scores	SRR8146971_2.fastq
+WARN	Per base sequence content	SRR8146971_2.fastq
+PASS	Per sequence GC content	SRR8146971_2.fastq
+PASS	Per base N content	SRR8146971_2.fastq
+WARN	Sequence Length Distribution	SRR8146971_2.fastq
+PASS	Sequence Duplication Levels	SRR8146971_2.fastq
+PASS	Overrepresented sequences	SRR8146971_2.fastq
+PASS	Adapter Content	SRR8146971_2.fastq
+PASS	Basic Statistics	SRR8146973_1.fastq
+PASS	Per base sequence quality	SRR8146973_1.fastq
+PASS	Per sequence quality scores	SRR8146973_1.fastq
+WARN	Per base sequence content	SRR8146973_1.fastq
+WARN	Per sequence GC content	SRR8146973_1.fastq
+PASS	Per base N content	SRR8146973_1.fastq
+WARN	Sequence Length Distribution	SRR8146973_1.fastq
+PASS	Sequence Duplication Levels	SRR8146973_1.fastq
+PASS	Overrepresented sequences	SRR8146973_1.fastq
+PASS	Adapter Content	SRR8146973_1.fastq
+PASS	Basic Statistics	SRR8146973_2.fastq
+PASS	Per base sequence quality	SRR8146973_2.fastq
+PASS	Per sequence quality scores	SRR8146973_2.fastq
+WARN	Per base sequence content	SRR8146973_2.fastq
+WARN	Per sequence GC content	SRR8146973_2.fastq
+PASS	Per base N content	SRR8146973_2.fastq
+PASS	Sequence Length Distribution	SRR8146973_2.fastq
+PASS	Sequence Duplication Levels	SRR8146973_2.fastq
+PASS	Overrepresented sequences	SRR8146973_2.fastq
+PASS	Adapter Content	SRR8146973_2.fastq
+PASS	Basic Statistics	SRR8146974_1.fastq
+PASS	Per base sequence quality	SRR8146974_1.fastq
+PASS	Per sequence quality scores	SRR8146974_1.fastq
+WARN	Per base sequence content	SRR8146974_1.fastq
+FAIL	Per sequence GC content	SRR8146974_1.fastq
+PASS	Per base N content	SRR8146974_1.fastq
+WARN	Sequence Length Distribution	SRR8146974_1.fastq
+PASS	Sequence Duplication Levels	SRR8146974_1.fastq
+PASS	Overrepresented sequences	SRR8146974_1.fastq
+PASS	Adapter Content	SRR8146974_1.fastq
+PASS	Basic Statistics	SRR8146974_2.fastq
+PASS	Per base sequence quality	SRR8146974_2.fastq
+PASS	Per sequence quality scores	SRR8146974_2.fastq
+WARN	Per base sequence content	SRR8146974_2.fastq
+WARN	Per sequence GC content	SRR8146974_2.fastq
+PASS	Per base N content	SRR8146974_2.fastq
+PASS	Sequence Length Distribution	SRR8146974_2.fastq
+PASS	Sequence Duplication Levels	SRR8146974_2.fastq
+PASS	Overrepresented sequences	SRR8146974_2.fastq
+PASS	Adapter Content	SRR8146974_2.fastq
+PASS	Basic Statistics	SRR8146976_1.fastq
+PASS	Per base sequence quality	SRR8146976_1.fastq
+PASS	Per sequence quality scores	SRR8146976_1.fastq
+WARN	Per base sequence content	SRR8146976_1.fastq
+PASS	Per sequence GC content	SRR8146976_1.fastq
+PASS	Per base N content	SRR8146976_1.fastq
+WARN	Sequence Length Distribution	SRR8146976_1.fastq
+PASS	Sequence Duplication Levels	SRR8146976_1.fastq
+PASS	Overrepresented sequences	SRR8146976_1.fastq
+PASS	Adapter Content	SRR8146976_1.fastq
+PASS	Basic Statistics	SRR8146976_2.fastq
+PASS	Per base sequence quality	SRR8146976_2.fastq
+PASS	Per sequence quality scores	SRR8146976_2.fastq
+WARN	Per base sequence content	SRR8146976_2.fastq
+PASS	Per sequence GC content	SRR8146976_2.fastq
+PASS	Per base N content	SRR8146976_2.fastq
+PASS	Sequence Length Distribution	SRR8146976_2.fastq
+PASS	Sequence Duplication Levels	SRR8146976_2.fastq
+PASS	Overrepresented sequences	SRR8146976_2.fastq
+PASS	Adapter Content	SRR8146976_2.fastq
