@@ -29,3 +29,5 @@ raw/
 
 # optional FastQC archives
 results/qc/fastqc/*_fastqc.zip
+.Rproj.user
+.Rhistory

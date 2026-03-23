@@ -1,0 +1,2 @@
+"taxon","lfc_(Intercept)","lfc_dietvegan","se_(Intercept)","se_dietvegan","W_(Intercept)","W_dietvegan","p_(Intercept)","p_dietvegan","q_(Intercept)","q_dietvegan","diff_(Intercept)","diff_dietvegan","passed_ss_(Intercept)","passed_ss_dietvegan","diff_robust_(Intercept)","diff_robust_dietvegan"
+"g__Segatella",2.66541999019736,-5.55049886438106,0.36103237758726,0.559188074433316,7.38277272528869,-9.92599649054742,0.00179447175497849,0.000578396180343283,0.084340172483989,0.0271846204761343,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE

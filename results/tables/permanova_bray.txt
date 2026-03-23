@@ -1,0 +1,9 @@
+Permutation test for adonis under reduced model
+Permutation: free
+Number of permutations: 719
+
+adonis2(formula = dist_bray ~ diet, data = meta_df)
+         Df SumOfSqs      R2      F Pr(>F)
+Model     1  0.39903 0.48429 3.7563    0.1
+Residual  4  0.42492 0.51571              
+Total     5  0.82394 1.00000              
